@@ -6,8 +6,6 @@
 
 </div>
 
-Todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en solitario.
-
 <br>
 
 <img src="https://img.shields.io/badge/-CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto"/>
@@ -34,26 +32,79 @@ Todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en 
 
 <img src="https://img.shields.io/badge/-PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos destacados"/>
 
+He tenido la gran suerte de empezar mi experiencia laboral en una empresa bastante grande del sector cosmético que necesitaba empezar a digitalizar bastantes de sus flujos de trabajo. Al ser el único que sabía de programación en el departamento de IT cuando empecé mis prácticas, todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en solitario — además, esto hizo que me ganase un puesto de trabajo en esta empresa. Estos han sido mis proyectos en MIXER & PACK SL:
+
+<br>
+
 > Los siguientes proyectos son sistemas privados, desarrollados para el uso interno de una organización empresarial real. Por confidencialidad el código no es público, pero puedo enseñar una demo o entrar en detalle técnico en una entrevista.
 
-**proyecto-Facturas** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60" valign="middle"/>
+<br>
 
-Aplicación web para que los directivos aprueben o rechacen facturas, integrada con SharePoint.
-- **Stack:** TypeScript
-- **Mi rol:** diseño y desarrollo full stack en solitario — frontend, backend e integración con SharePoint.
+### Dock-Flow &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)
 
-**Dock-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" valign="middle"/>
+Este es mi primer proyecto en la empresa y ha evoluicionado muchísimo. Le tengo un enorme aprecio por razones obvias.
+Esta es una plataforma web para la optimización de procesos logísticos: gestión de muelles y notificaciones en tiempo real. Cubre todo el flujo, desde la solicitud de carga o descarga hasta su finalización, incluyendo control de seguridad y recepción. Coordina 9 roles distintos dentro de un único flujo de trabajo, garantizando seguridad, eficiencia y puntualidad de principio a fin.
 
-Plataforma web para la optimización de procesos logísticos: gestión de muelles y notificaciones en tiempo real.
-- **Stack:** JavaScript
-- **Impacto:** en uso activo por cientos de usuarios de toda la organización (proveedores, clientes y empleados).
-- **Mi rol:** desarrollo full stack en solitario, desde el diseño hasta el despliegue.
+<table>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-STACK-1f6feb?style=flat-square" alt="Stack"/></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+</td>
+</tr>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-IMPACTO-2ea043?style=flat-square" alt="Impacto"/></td>
+<td>En uso activo por cientos de usuarios de toda la organización (proveedores, clientes y empleados).</td>
+</tr>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-MI%20ROL-8957e5?style=flat-square" alt="Mi rol"/></td>
+<td>Desarrollo full stack en solitario, desde el diseño hasta el despliegue y mantenimiento. La continua formación a los empleados y proveedores también corre por mi cuenta.</td>
+</tr>
+</table>
 
-**Label-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" valign="middle"/>
+<br>
 
-Aplicación de escritorio para la optimización de procesos en planta.
-- **Stack:** Python
-- **Mi rol:** desarrollo full stack en solitario.
+### Proyecto de automatización y gestión de facturas &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)
+
+Aplicación web para que los directivos aprueben o rechacen facturas, integrada con SharePoint y Dynamics AX, completando un flujo que antes se realizaba totalmente de manera manual en una gestión sencilla y rápida, ahorrando mucho tiempo de trabajo burocrático.
+
+<table>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-STACK-1f6feb?style=flat-square" alt="Stack"/></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+</td>
+</tr>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-MI%20ROL-8957e5?style=flat-square" alt="Mi rol"/></td>
+<td>Diseño y desarrollo full stack en solitario — frontend, backend e integración con SharePoint y Dynamics AX.</td>
+</tr>
+</table>
+
+<br>
+
+### Label-Flow &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)
+
+Aplicación de etiquetado industrial para garantizar la trazabilidad completa de la producción: altas y bajas, inventario de materiales y control de todo el proceso productivo.
+
+<table>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-STACK-1f6feb?style=flat-square" alt="Stack"/></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="QML / Qt" alt="QML" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="TeX / LaTeX" alt="TeX" width="40" height="40"/>
+</td>
+</tr>
+<tr>
+<td width="130"><img src="https://img.shields.io/badge/-MI%20ROL-8957e5?style=flat-square" alt="Mi rol"/></td>
+<td>Desarrollo full stack en solitario. Implementación en planta (compra de impresoras, ordenadores, escáneres, etc) y formación de los operarios en colaboración con mis ocmpañeros de departamento.</td>
+</tr>
+</table>
 
 <br>
 
