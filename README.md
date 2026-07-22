@@ -5,13 +5,13 @@
 Todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en solitario.
  
 <br>
-![Contacto](https://img.shields.io/badge/CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white)
+![Contacto](https://img.shields.io/badge/-CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white)
  
 [![Email](https://img.shields.io/badge/Email-riveraviktor%40outlook.com-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:riveraviktor@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rivera-cv)
  
 <br>
-![Stack técnico](https://img.shields.io/badge/STACK%20T%C3%89CNICO-0f2027?style=for-the-badge&logo=stackshare&logoColor=white)
+![Stack técnico](https://img.shields.io/badge/-STACK%20T%C3%89CNICO-0f2027?style=for-the-badge&logo=stackshare&logoColor=white)
  
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;
@@ -23,7 +23,7 @@ Todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en 
  
 </div>
 <br>
-![Proyectos destacados](https://img.shields.io/badge/PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white)
+![Proyectos destacados](https://img.shields.io/badge/-PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white)
  
 > Los siguientes proyectos son sistemas privados, desarrollados para el uso interno de una organización empresarial real. Por confidencialidad el código no es público, pero puedo enseñar una demo o entrar en detalle técnico en una entrevista.
  
@@ -44,9 +44,9 @@ Aplicación de escritorio para la optimización de procesos en planta.
 - **Stack:** Python
 - **Mi rol:** desarrollo full stack en solitario.
 <br>
-![Actividad](https://img.shields.io/badge/ACTIVIDAD-0f2027?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Actividad](https://img.shields.io/badge/-ACTIVIDAD-0f2027?style=for-the-badge&logo=chartdotjs&logoColor=white)
  
-![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=dark&hide_title=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=VictorRiPu&show_icons=true&theme=dark&hide_title=true&count_private=true)
  
 <!--
 TRUCO PRO (opcional): animación de la serpiente comiéndose tu gráfico de contribuciones.
@@ -77,16 +77,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 2. Haz push, deja que la Action corra una vez (crea la rama "output").
-3. Descomenta el bloque de abajo y sustituye TU-USUARIO-AQUI.
+3. Descomenta el bloque de abajo y sustituye VictorRiPu.
 -->
  
-<!--
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO-AQUI/TU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO-AQUI/TU-USUARIO-AQUI/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/TU-USUARIO-AQUI/TU-USUARIO-AQUI/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorRiPu/VictorRiPu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorRiPu/VictorRiPu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/VictorRiPu/VictorRiPu/output/github-contribution-grid-snake.svg" />
 </picture>
--->
+
  
 ---
 *¿Interesado/a en saber más sobre alguno de estos proyectos? Escríbeme, estaré encantado de contarte los detalles técnicos.*
