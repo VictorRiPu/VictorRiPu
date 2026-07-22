@@ -5,44 +5,46 @@
 Todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en solitario.
  
 <br>
-![](https://img.shields.io/badge/CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white)
+![Contacto](https://img.shields.io/badge/CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white)
  
 [![Email](https://img.shields.io/badge/Email-riveraviktor%40outlook.com-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:riveraviktor@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rivera-cv)
  
 <br>
-![](https://img.shields.io/badge/STACK%20T%C3%89CNICO-0f2027?style=for-the-badge&logo=stackshare&logoColor=white)
+![Stack técnico](https://img.shields.io/badge/STACK%20T%C3%89CNICO-0f2027?style=for-the-badge&logo=stackshare&logoColor=white)
  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>
  
+</div>
 <br>
-![](https://img.shields.io/badge/PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white)
+![Proyectos destacados](https://img.shields.io/badge/PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white)
  
 > Los siguientes proyectos son sistemas privados, desarrollados para el uso interno de una organización empresarial real. Por confidencialidad el código no es público, pero puedo enseñar una demo o entrar en detalle técnico en una entrevista.
  
-**proyecto-Facturas** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;![TS](https://img.shields.io/badge/-%20-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**proyecto-Facturas** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="22" height="22" valign="middle"/>
  
 Aplicación web para que los directivos aprueben o rechacen facturas, integrada con SharePoint.
 - **Stack:** TypeScript
 - **Mi rol:** diseño y desarrollo full stack en solitario — frontend, backend e integración con SharePoint.
-**Dock-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;![JS](https://img.shields.io/badge/-%20-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Dock-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="22" height="22" valign="middle"/>
  
 Plataforma web para la optimización de procesos logísticos: gestión de muelles y notificaciones en tiempo real.
 - **Stack:** JavaScript
 - **Impacto:** en uso activo por cientos de usuarios de toda la organización (proveedores, clientes y empleados).
 - **Mi rol:** desarrollo full stack en solitario, desde el diseño hasta el despliegue.
-**Label-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;![Py](https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white)
+**Label-Flow** &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="22" height="22" valign="middle"/>
  
 Aplicación de escritorio para la optimización de procesos en planta.
 - **Stack:** Python
 - **Mi rol:** desarrollo full stack en solitario.
 <br>
-![](https://img.shields.io/badge/ACTIVIDAD-0f2027?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Actividad](https://img.shields.io/badge/ACTIVIDAD-0f2027?style=for-the-badge&logo=chartdotjs&logoColor=white)
  
 ![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=dark&hide_title=true&count_private=true)
  
@@ -88,4 +90,3 @@ jobs:
  
 ---
 *¿Interesado/a en saber más sobre alguno de estos proyectos? Escríbeme, estaré encantado de contarte los detalles técnicos.*
- 
