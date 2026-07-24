@@ -5,13 +5,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+whoami;Full+Stack+Developer;Dise%C3%B1o+y+desarrollo+de+software+empresarial;Especializ%C3%A1ndome+en+Ciberseguridad" alt="typing-svg" />
 
 </div>
-
 <br>
 
 <img src="https://img.shields.io/badge/-CONTACTO-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto"/>
 
 [![Email](https://img.shields.io/badge/Email-riveraviktor%40outlook.com-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:riveraviktor@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rivera-cv)
+
+
+<br>
+
+<img src="https://img.shields.io/badge/-SOBRE%20M%C3%8D-0f2027?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Sobre mí"/>
+
+Soy un apasionado de la ciberseguridad y del desarrollo de aplicaciones web y multiplataforma. Creo que saber crear software es una ventaja enorme hoy en día — y no solo crearlo, sino saber protegerlo frente a posibles ataques o malware. Por eso estoy construyendo un perfil técnico que aplico tanto en mi carrera profesional como en mi día a día personal.
+
+Mi carrera profesional acaba de empezar, y ya estoy desarrollando software seguro para la empresa en la que trabajo, ahorrándole una cantidad considerable de dinero en licencias y desarrollos externos que antes tenía que contratar.
+
+En mi vida personal aplico la misma filosofía: desarrollo herramientas propias que igualan — o mejoran — las prestaciones de aplicaciones de pago ya existentes.
+
+He tenido la suerte de empezar mi experiencia laboral en una empresa grande del sector cosmético que necesitaba digitalizar buena parte de sus flujos de trabajo. Al ser el único con conocimientos de programación en el departamento de IT durante mis prácticas, diseñé y desarrollé en solitario todo lo que vas a ver a continuación — y ese trabajo me ganó un puesto fijo en la empresa.
+
+A continuación, algunos de mis proyectos más destacados en MIXER & PACK SL:
 
 <br>
 
@@ -32,18 +46,15 @@
 
 <img src="https://img.shields.io/badge/-PROYECTOS%20DESTACADOS-0f2027?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos destacados"/>
 
-He tenido la gran suerte de empezar mi experiencia laboral en una empresa bastante grande del sector cosmético que necesitaba empezar a digitalizar bastantes de sus flujos de trabajo. Al ser el único que sabía de programación en el departamento de IT cuando empecé mis prácticas, todo lo que ves abajo lo he diseñado y desarrollado yo, de principio a fin, en solitario — además, esto hizo que me ganase un puesto de trabajo en esta empresa. Estos han sido mis proyectos en MIXER & PACK SL:
-
-<br>
-
 > Los siguientes proyectos son sistemas privados, desarrollados para el uso interno de una organización empresarial real. Por confidencialidad el código no es público, pero puedo enseñar una demo o entrar en detalle técnico en una entrevista.
 
 <br>
 
 ### Dock-Flow &nbsp;![Private](https://img.shields.io/badge/-PRIVATE-critical?style=flat-square)
 
-Este es mi primer proyecto en la empresa y ha evoluicionado muchísimo. Le tengo un enorme aprecio por razones obvias.
-Esta es una plataforma web para la optimización de procesos logísticos: gestión de muelles y notificaciones en tiempo real. Cubre todo el flujo, desde la solicitud de carga o descarga hasta su finalización, incluyendo control de seguridad y recepción. Coordina 9 roles distintos dentro de un único flujo de trabajo, garantizando seguridad, eficiencia y puntualidad de principio a fin.
+Este fue mi primer proyecto en la empresa y ha evolucionado muchísimo desde entonces — le tengo un cariño especial por razones obvias.
+
+Es una plataforma web para la optimización de procesos logísticos: gestión de muelles y notificaciones en tiempo real. Cubre todo el flujo, desde la solicitud de carga o descarga hasta su finalización, incluyendo control de seguridad y recepción. Coordina 9 roles distintos dentro de un único flujo de trabajo, garantizando seguridad, eficiencia y puntualidad de principio a fin.
 
 <table>
 <tr>
@@ -61,7 +72,7 @@ Esta es una plataforma web para la optimización de procesos logísticos: gesti�
 </tr>
 <tr>
 <td width="130"><img src="https://img.shields.io/badge/-MI%20ROL-8957e5?style=flat-square" alt="Mi rol"/></td>
-<td>Desarrollo full stack en solitario, desde el diseño hasta el despliegue y mantenimiento. La continua formación a los empleados y proveedores también corre por mi cuenta.</td>
+<td>Desarrollo full stack en solitario: diseño, despliegue y mantenimiento continuo, además de la formación de empleados y proveedores en el uso de la plataforma.</td>
 </tr>
 </table>
 
@@ -102,7 +113,7 @@ Aplicación de etiquetado industrial para garantizar la trazabilidad completa de
 </tr>
 <tr>
 <td width="130"><img src="https://img.shields.io/badge/-MI%20ROL-8957e5?style=flat-square" alt="Mi rol"/></td>
-<td>Desarrollo full stack en solitario. Implementación en planta (compra de impresoras, ordenadores, escáneres, etc) y formación de los operarios en colaboración con mis ocmpañeros de departamento.</td>
+<td>Desarrollo full stack en solitario, además de la implementación en planta (compra de impresoras, ordenadores, escáneres, etc.) y la formación de los operarios, en colaboración con mis compañeros de departamento.</td>
 </tr>
 </table>
 
